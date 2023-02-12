@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-12T20:19:35.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 YaBrowser/23.1.2.931 Yowser/2.5 Safari/537.36" etag="r2NSzVEVlEBkc3n0wLqv" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-12T20:26:44.758Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 YaBrowser/23.1.2.931 Yowser/2.5 Safari/537.36" etag="LTQy6CUOb0DJQxfa3HyY" version="20.8.20" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="4130.5" dy="1369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -27,6 +27,33 @@
         </mxCell>
         <mxCell id="hjXKdelXAHmComiaKtAr-123" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;Главная&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="80" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hjXKdelXAHmComiaKtAr-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=27;fontColor=#000000;" edge="1" parent="1" source="hjXKdelXAHmComiaKtAr-124" target="hjXKdelXAHmComiaKtAr-200">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hjXKdelXAHmComiaKtAr-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=27;fontColor=#000000;" edge="1" parent="1" source="hjXKdelXAHmComiaKtAr-124" target="hjXKdelXAHmComiaKtAr-199">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hjXKdelXAHmComiaKtAr-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=27;fontColor=#000000;" edge="1" parent="1" source="hjXKdelXAHmComiaKtAr-124" target="hjXKdelXAHmComiaKtAr-198">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hjXKdelXAHmComiaKtAr-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=27;fontColor=#000000;" edge="1" parent="1" source="hjXKdelXAHmComiaKtAr-124" target="hjXKdelXAHmComiaKtAr-197">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hjXKdelXAHmComiaKtAr-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=27;fontColor=#000000;" edge="1" parent="1" source="hjXKdelXAHmComiaKtAr-124" target="hjXKdelXAHmComiaKtAr-196">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hjXKdelXAHmComiaKtAr-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=27;fontColor=#000000;" edge="1" parent="1" source="hjXKdelXAHmComiaKtAr-124" target="hjXKdelXAHmComiaKtAr-195">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hjXKdelXAHmComiaKtAr-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=27;fontColor=#000000;" edge="1" parent="1" source="hjXKdelXAHmComiaKtAr-124" target="hjXKdelXAHmComiaKtAr-194">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hjXKdelXAHmComiaKtAr-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=27;fontColor=#000000;" edge="1" parent="1" source="hjXKdelXAHmComiaKtAr-124" target="hjXKdelXAHmComiaKtAr-192">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hjXKdelXAHmComiaKtAr-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=27;fontColor=#000000;" edge="1" parent="1" source="hjXKdelXAHmComiaKtAr-124" target="hjXKdelXAHmComiaKtAr-193">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hjXKdelXAHmComiaKtAr-124" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;Абитуриентам&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="240" width="230" height="80" as="geometry" />
@@ -198,6 +225,33 @@
         </mxCell>
         <mxCell id="hjXKdelXAHmComiaKtAr-179" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;Регистрация, визовые вопросы&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-910" y="2620" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hjXKdelXAHmComiaKtAr-192" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;Бакалавриат&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="490" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hjXKdelXAHmComiaKtAr-193" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;СПО&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="380" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hjXKdelXAHmComiaKtAr-194" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;Специалитет&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="600" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hjXKdelXAHmComiaKtAr-195" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;Магистратура&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="710" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hjXKdelXAHmComiaKtAr-196" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;Аспирантура&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="820" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hjXKdelXAHmComiaKtAr-197" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;Специальность и направлений подготовки&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="930" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hjXKdelXAHmComiaKtAr-198" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;Приемная комиссия&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="1040" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hjXKdelXAHmComiaKtAr-199" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;Информация о приеме-2020&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="1150" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hjXKdelXAHmComiaKtAr-200" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;Личный кабинет абитуриента&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="1260" width="230" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
